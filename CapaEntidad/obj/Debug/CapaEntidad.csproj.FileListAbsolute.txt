@@ -1,0 +1,174 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Victor Quispe\ASP\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Victor Quispe\ASP\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Victor Quispe\ASP\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\Victor Quispe\ASP\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Victor Quispe\ASP\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Victor Quispe\ASP\CapaEntidad\bin\Debug\CapaEntidad.dll.CodeAnalysisLog.xml
+D:\Victor Quispe\ASP\CapaEntidad\bin\Debug\CapaEntidad.dll.lastcodeanalysissucceeded
+D:\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaEntidad\obj\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\system05\Desktop\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaEntidad\obj\Debug\CapaEntidad.pdb

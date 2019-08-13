@@ -1,0 +1,152 @@
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\bin\Release\CapaDatos.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\bin\Release\CapaDatos.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\bin\Release\CapaEntidad.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\bin\Release\CapaEntidad.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\obj\Release\CapaDatos.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaDatos\obj\Release\CapaDatos.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\SpreadsheetLight.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\SpreadsheetLight.xml
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\AjaxControlToolkit.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\Sap.Data.Hana.v4.5.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaDatos\bin\Release\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaDatos.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaDatos.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\AjaxControlToolkit.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaEntidad.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\Sap.Data.Hana.v4.5.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\SpreadsheetLight.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\CapaEntidad.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\Sap.Data.Hana.v4.5.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\bin\Release\SpreadsheetLight.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_2019_04_25_V1\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaDatos\obj\Release\CapaDatos.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\CapaDatos.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\CapaDatos.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\AjaxControlToolkit.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\CapaEntidad.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\Sap.Data.Hana.v4.5.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\SpreadsheetLight.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\CapaEntidad.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\Sap.Data.Hana.v4.5.xml
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\bin\Release\SpreadsheetLight.xml
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\obj\Release\CapaDatos.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\AjaxControlToolkit.dll
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\SpreadsheetLight.dll
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\bin\Release\SpreadsheetLight.xml
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\obj\Release\CapaDatos.csproj.ResolveComReference.cache
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\libre\Desktop\SICO_V3\CapaDatos\obj\Release\CapaDatos.pdb

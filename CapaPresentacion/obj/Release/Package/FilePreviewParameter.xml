@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="localhost/prueba" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Victor\ Quispe\\TI\\SICO\ WEB\ 2017\\CapaPresentacion\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Victor\ Quispe\\TI\\SICO\ WEB\ 2017\\CapaPresentacion\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DemoCapas-Web.config Connection String" description="" value="Data Source=localhost;Initial Catalog=SICOWEB;User ID=sa" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Victor\ Quispe\\TI\\SICO\ WEB\ 2017\\CapaPresentacion\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DemoCapas']/@connectionString" />
+  </parameter>
+</parameters>

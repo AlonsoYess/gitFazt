@@ -1,0 +1,325 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Victor Quispe\ASP\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Victor Quispe\ASP\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Victor Quispe\ASP\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaNegocio.dll.CodeAnalysisLog.xml
+D:\Victor Quispe\ASP\CapaNegocio\bin\Debug\CapaNegocio.dll.lastcodeanalysissucceeded
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\bin\Debug\CapaEntidad.pdb
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\SGG\Victor Quispe\TI\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Willy Solorzano\Desktop\SICO WEB 2017\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.dll
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+G:\SGG\Victor Quispe\TI\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\Version1\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\SGG\Desktop\Version1\SICOWEB 2017 V2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\SGG\Victor Quispe\TI\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Willy Solorzano\Desktop\V1.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Willy Solorzano\Desktop\V1.2\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.1\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+\\180.100.0.210\sistemas\ALONSO TTICA\V1.2.3\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\V1.2.3\SICO_2019_04_25\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\system05\Desktop\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.pdb
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.dll
+\\180.100.0.210\sistemas\27062019SICO\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\escritorio\Desktop\V1.2\SICO_V2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\SpreadsheetLight.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alonso Ttica Leon\Desktop\AlonsoTica\Proyecto Sico\SICO_V3\CapaNegocio\obj\Debug\CapaNegocio.pdb

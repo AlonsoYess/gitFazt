@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C310963C-DF5B-49F9-8B8E-F5FDF38DA19E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <IncludeIisSettings>true</IncludeIisSettings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=18.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.18.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.5\lib\DocumentFormat.OpenXml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EPPlus, Version=4.5.2.1, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.2.1\lib\net40\EPPlus.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ExcelLibrary">
+      <HintPath>..\ExcelLibrary_20110730\ExcelLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ExportToExcel">
+      <HintPath>C:\Users\Administrador\Desktop\ExportToExcel\sourceCode\sourceCode\bin\Debug\ExportToExcel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel1">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Office\Office15\DCF\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel2">
+      <HintPath>C:\Program Files (x86)\Microsoft Office\Office15\DCF\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="SpreadsheetLight, Version=3.4.9.0, Culture=neutral, PublicKeyToken=32fbb46dc1730c57, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpreadsheetLight.3.4.9\lib\SpreadsheetLight.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SAPCostoIn.aspx" />
+    <Content Include="SapDocAutorizados.aspx" />
+    <Content Include="SAPListaPrecioDetalle.aspx" />
+    <Content Include="sapovstock.aspx" />
+    <Content Include="ordencompraExcel.aspx" />
+    <Content Include="notapedidolistado.aspx" />
+    <Content Include="facturalistado.aspx" />
+    <Content Include="clientecotiz.aspx" />
+    <Content Include="cotizaciondetcliente.aspx" />
+    <Content Include="cotizacioncliente.aspx" />
+    <Content Include="productoconsulta.aspx" />
+    <Content Include="clientes.aspx" />
+    <Content Include="compraNP.aspx" />
+    <Content Include="compracotiz.aspx" />
+    <Content Include="SAPQuiebreStock.aspx" />
+    <Content Include="SAPSeguimientoOC1.aspx" />
+    <Content Include="SAPSeguimientoOCIMP.aspx" />
+    <Content Include="SAPVentasCliente.aspx" />
+    <Content Include="StockXMarca.aspx" />
+    <Content Include="style\css\style.css" />
+    <Content Include="style\images\search.png" />
+    <Content Include="style\images\select.png" />
+    <Content Include="style\script\jquery-1.5.2.min.js" />
+    <Content Include="LogisticaStockMin.aspx" />
+    <Content Include="comprasExcel.aspx" />
+    <Content Include="guiaspend.aspx" />
+    <Content Include="tomainvRegistrar.aspx" />
+    <Content Include="tomainvEDetalle.aspx" />
+    <Content Include="tomainvmenu.aspx" />
+    <Content Include="tomainv.aspx" />
+    <Content Include="tomainvEstados.aspx" />
+    <Content Include="stockSAP.aspx" />
+    <Content Include="SAPventasgcpv.aspx" />
+    <Content Include="SAPventasgcpuntodetalle.aspx" />
+    <Content Include="SAPVentasXArticuloExcel.aspx" />
+    <Content Include="ventaslistaprecio.aspx" />
+    <Content Include="VentasxClientexMensualD.aspx" />
+    <Content Include="VentasxClientexMensual.aspx" />
+    <Content Include="ventasgcExcel.aspx" />
+    <Content Include="ventasgcformapago.aspx" />
+    <Content Include="ventasgcmarca.aspx" />
+    <Content Include="clientedetalle.aspx" />
+    <Content Include="clientedoc.aspx" />
+    <Content Include="clientegrupo.aspx" />
+    <Content Include="ventasgcpvdetalle.aspx" />
+    <Content Include="ventasgcpv.aspx" />
+    <Content Include="ventasgc.aspx" />
+    <Content Include="productoyventa.aspx" />
+    <Content Include="seguimientosa.aspx" />
+    <Content Include="consultastock.aspx" />
+    <Content Include="DocImprimir.aspx" />
+    <Content Include="Imprimir.aspx" />
+    <Content Include="menup.aspx" />
+    <Content Include="sico.aspx" />
+    <Content Include="ventasgempresa.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="ventasxvendedor.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SAPCostoIn.aspx.cs">
+      <DependentUpon>SAPCostoIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPCostoIn.aspx.designer.cs">
+      <DependentUpon>SAPCostoIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SapDocAutorizados.aspx.cs">
+      <DependentUpon>SapDocAutorizados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SapDocAutorizados.aspx.designer.cs">
+      <DependentUpon>SapDocAutorizados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPListaPrecioDetalle.aspx.cs">
+      <DependentUpon>SAPListaPrecioDetalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPListaPrecioDetalle.aspx.designer.cs">
+      <DependentUpon>SAPListaPrecioDetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sapovstock.aspx.cs">
+      <DependentUpon>sapovstock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sapovstock.aspx.designer.cs">
+      <DependentUpon>sapovstock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ordencompraExcel.aspx.cs">
+      <DependentUpon>ordencompraExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ordencompraExcel.aspx.designer.cs">
+      <DependentUpon>ordencompraExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="notapedidolistado.aspx.cs">
+      <DependentUpon>notapedidolistado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="notapedidolistado.aspx.designer.cs">
+      <DependentUpon>notapedidolistado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="facturalistado.aspx.cs">
+      <DependentUpon>facturalistado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="facturalistado.aspx.designer.cs">
+      <DependentUpon>facturalistado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clientecotiz.aspx.cs">
+      <DependentUpon>clientecotiz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clientecotiz.aspx.designer.cs">
+      <DependentUpon>clientecotiz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cotizaciondetcliente.aspx.cs">
+      <DependentUpon>cotizaciondetcliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cotizaciondetcliente.aspx.designer.cs">
+      <DependentUpon>cotizaciondetcliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cotizacioncliente.aspx.cs">
+      <DependentUpon>cotizacioncliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cotizacioncliente.aspx.designer.cs">
+      <DependentUpon>cotizacioncliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="productoconsulta.aspx.cs">
+      <DependentUpon>productoconsulta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="productoconsulta.aspx.designer.cs">
+      <DependentUpon>productoconsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clientes.aspx.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clientes.aspx.designer.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="compraNP.aspx.cs">
+      <DependentUpon>compraNP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="compraNP.aspx.designer.cs">
+      <DependentUpon>compraNP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="compracotiz.aspx.cs">
+      <DependentUpon>compracotiz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="compracotiz.aspx.designer.cs">
+      <DependentUpon>compracotiz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LogisticaStockMin.aspx.cs">
+      <DependentUpon>LogisticaStockMin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogisticaStockMin.aspx.designer.cs">
+      <DependentUpon>LogisticaStockMin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="comprasExcel.aspx.cs">
+      <DependentUpon>comprasExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="comprasExcel.aspx.designer.cs">
+      <DependentUpon>comprasExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="guiaspend.aspx.cs">
+      <DependentUpon>guiaspend.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="guiaspend.aspx.designer.cs">
+      <DependentUpon>guiaspend.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPQuiebreStock.aspx.cs">
+      <DependentUpon>SAPQuiebreStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPQuiebreStock.aspx.designer.cs">
+      <DependentUpon>SAPQuiebreStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPSeguimientoOC1.aspx.cs">
+      <DependentUpon>SAPSeguimientoOC1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPSeguimientoOC1.aspx.designer.cs">
+      <DependentUpon>SAPSeguimientoOC1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPSeguimientoOCIMP.aspx.cs">
+      <DependentUpon>SAPSeguimientoOCIMP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPSeguimientoOCIMP.aspx.designer.cs">
+      <DependentUpon>SAPSeguimientoOCIMP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPVentasCliente.aspx.cs">
+      <DependentUpon>SAPVentasCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPVentasCliente.aspx.designer.cs">
+      <DependentUpon>SAPVentasCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StockXMarca.aspx.cs">
+      <DependentUpon>StockXMarca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StockXMarca.aspx.designer.cs">
+      <DependentUpon>StockXMarca.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tomainvRegistrar.aspx.cs">
+      <DependentUpon>tomainvRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tomainvRegistrar.aspx.designer.cs">
+      <DependentUpon>tomainvRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tomainvEDetalle.aspx.cs">
+      <DependentUpon>tomainvEDetalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tomainvEDetalle.aspx.designer.cs">
+      <DependentUpon>tomainvEDetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tomainvmenu.aspx.cs">
+      <DependentUpon>tomainvmenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tomainvmenu.aspx.designer.cs">
+      <DependentUpon>tomainvmenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tomainv.aspx.cs">
+      <DependentUpon>tomainv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tomainv.aspx.designer.cs">
+      <DependentUpon>tomainv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tomainvEstados.aspx.cs">
+      <DependentUpon>tomainvEstados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tomainvEstados.aspx.designer.cs">
+      <DependentUpon>tomainvEstados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="stockSAP.aspx.cs">
+      <DependentUpon>stockSAP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="stockSAP.aspx.designer.cs">
+      <DependentUpon>stockSAP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPventasgcpv.aspx.cs">
+      <DependentUpon>SAPventasgcpv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPventasgcpv.aspx.designer.cs">
+      <DependentUpon>SAPventasgcpv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPventasgcpuntodetalle.aspx.cs">
+      <DependentUpon>SAPventasgcpuntodetalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPventasgcpuntodetalle.aspx.designer.cs">
+      <DependentUpon>SAPventasgcpuntodetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SAPVentasXArticuloExcel.aspx.cs">
+      <DependentUpon>SAPVentasXArticuloExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SAPVentasXArticuloExcel.aspx.designer.cs">
+      <DependentUpon>SAPVentasXArticuloExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventaslistaprecio.aspx.cs">
+      <DependentUpon>ventaslistaprecio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventaslistaprecio.aspx.designer.cs">
+      <DependentUpon>ventaslistaprecio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasxClientexMensualD.aspx.cs">
+      <DependentUpon>VentasxClientexMensualD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasxClientexMensualD.aspx.designer.cs">
+      <DependentUpon>VentasxClientexMensualD.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasxClientexMensual.aspx.cs">
+      <DependentUpon>VentasxClientexMensual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasxClientexMensual.aspx.designer.cs">
+      <DependentUpon>VentasxClientexMensual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgcExcel.aspx.cs">
+      <DependentUpon>ventasgcExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgcExcel.aspx.designer.cs">
+      <DependentUpon>ventasgcExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgcformapago.aspx.cs">
+      <DependentUpon>ventasgcformapago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgcformapago.aspx.designer.cs">
+      <DependentUpon>ventasgcformapago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgcmarca.aspx.cs">
+      <DependentUpon>ventasgcmarca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgcmarca.aspx.designer.cs">
+      <DependentUpon>ventasgcmarca.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clientedetalle.aspx.cs">
+      <DependentUpon>clientedetalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clientedetalle.aspx.designer.cs">
+      <DependentUpon>clientedetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clientedoc.aspx.cs">
+      <DependentUpon>clientedoc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clientedoc.aspx.designer.cs">
+      <DependentUpon>clientedoc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clientegrupo.aspx.cs">
+      <DependentUpon>clientegrupo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clientegrupo.aspx.designer.cs">
+      <DependentUpon>clientegrupo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgcpvdetalle.aspx.cs">
+      <DependentUpon>ventasgcpvdetalle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgcpvdetalle.aspx.designer.cs">
+      <DependentUpon>ventasgcpvdetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgcpv.aspx.cs">
+      <DependentUpon>ventasgcpv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgcpv.aspx.designer.cs">
+      <DependentUpon>ventasgcpv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgc.aspx.cs">
+      <DependentUpon>ventasgc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgc.aspx.designer.cs">
+      <DependentUpon>ventasgc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="productoyventa.aspx.cs">
+      <DependentUpon>productoyventa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="productoyventa.aspx.designer.cs">
+      <DependentUpon>productoyventa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seguimientosa.aspx.cs">
+      <DependentUpon>seguimientosa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seguimientosa.aspx.designer.cs">
+      <DependentUpon>seguimientosa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="consultastock.aspx.cs">
+      <DependentUpon>consultastock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="consultastock.aspx.designer.cs">
+      <DependentUpon>consultastock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DocImprimir.aspx.cs">
+      <DependentUpon>DocImprimir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DocImprimir.aspx.designer.cs">
+      <DependentUpon>DocImprimir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Imprimir.aspx.cs">
+      <DependentUpon>Imprimir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Imprimir.aspx.designer.cs">
+      <DependentUpon>Imprimir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="menup.aspx.cs">
+      <DependentUpon>menup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="menup.aspx.designer.cs">
+      <DependentUpon>menup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rptcomprobante.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptcomprobante.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rVentasEmpresaGenerales.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rVentasEmpresaGenerales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sico.aspx.cs">
+      <DependentUpon>sico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sico.aspx.designer.cs">
+      <DependentUpon>sico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasgempresa.aspx.cs">
+      <DependentUpon>ventasgempresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasgempresa.aspx.designer.cs">
+      <DependentUpon>ventasgempresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ventasxvendedor.aspx.cs">
+      <DependentUpon>ventasxvendedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ventasxvendedor.aspx.designer.cs">
+      <DependentUpon>ventasxvendedor.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\sico.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{ee60f8eb-6192-40ef-add9-414605273d2a}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{df8636a9-44d0-4468-9818-7be90de8d977}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="rptcomprobante.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptcomprobante.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rVentasEmpresaGenerales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rVentasEmpresaGenerales.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:47531/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
