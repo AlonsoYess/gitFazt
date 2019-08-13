@@ -427,7 +427,7 @@ namespace CapaPresentacion
             }
             else
             {
-                Response.Write("<script language=javascript>alert('Error : No Tienes Acceso - Total Ventas X Ultimos Clientes');window.location.href ='menup.aspx';</script>");
+                Response.Write("<script language=javascript>alert('Errorrrr : No Tienes Acceso - Total Ventas X Ultimos Clientes');window.location.href ='menup.aspx';</script>");
 
             }
         }
